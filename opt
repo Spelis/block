@@ -1,0 +1,8 @@
+50 # int: width
+50 # int: height
+255,255,255 # list[int]: Color, Separated by comma.
+0.99 # float: friction
+0.1 # float: launch strength
+0.5 # float: bounciness x
+0.5 # float: bounciness y
+2 # int: border thickness
